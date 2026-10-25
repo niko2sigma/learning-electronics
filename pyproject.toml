@@ -1,0 +1,11 @@
+[project]
+name = "learning-electronics"
+version = "0.1.0"
+description = "It's a pet project to learn applied electronic and automation testing of the electronic components and circuits"
+readme = "README.md"
+authors = [
+    { name = "niko2sigma", email = "nikolai.ageev@proton.me" }
+]
+requires-python = ">=3.10"
+dependencies = []
+
